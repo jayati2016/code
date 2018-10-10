@@ -15,5 +15,6 @@ int main()
     printf("NO");
     }
     if(f==1){
-    printf("YES");}
+    printf("YES");
+    }
 }
