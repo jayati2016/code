@@ -3,7 +3,7 @@
 
 int main()
 {
-int num,n,r,s=0;
+int num,n,r,s=0,c;
 scanf("%d",&n);
 num=n;
 while(n!=0){
