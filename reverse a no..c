@@ -14,7 +14,7 @@ while(n!=0){
 
 printf("%d\n",s);
 if(num==s)
-    printf("equal");
+    printmf("equal");
 else{
     printf("not equal");
 }
