@@ -18,7 +18,7 @@ int main()
         if (f==0)
             printf("yes");
         else{
-            printf("no");
+            printf("no\n");
         }
 
 }
