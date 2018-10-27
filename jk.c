@@ -6,8 +6,10 @@ int main()
     scanf("%d",&N);
     for(i=2;i<N;i++){
         if (N%i==0){
+            
         f=0;
         break;}
+        
         else{
        (f=1);}
     }
