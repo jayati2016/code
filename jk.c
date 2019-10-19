@@ -12,7 +12,7 @@ int main()
        (f=1);}
     }
     if(f==0){
-    printf("NO");
+    printf("NOOOOO");
     }
     if(f==1){
     printf("YES");}
